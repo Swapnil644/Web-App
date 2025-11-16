@@ -1,0 +1,5 @@
+{
+  "name": "Lost and Found Platform",
+  "description": "A fully functional, production-ready Lost & Found platform where users can report, search, and claim items. Built with React, Firebase, and Tailwind CSS.",
+  "requestFramePermissions": []
+}
